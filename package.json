@@ -1,0 +1,16 @@
+{
+	"name": "rotinix",
+	"version": "1.0.0",
+	"description": "Rotinix - Organize e acompanhe suas rotinas diárias",
+	"type": "module",
+	"private": true,
+	"scripts": {},
+	"author": "FilipeDiass",
+	"license": "ISC",
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4",
+		"@types/node": "^22.8.7",
+		"tsx": "^4.19.2",
+		"typescript": "^5.6.3"
+	}
+}
